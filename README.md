@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saikumar Kothada
 - 👀 I’m interested in DevOps and cloud 
 - 🌱 I’m currently learning DevOps tools (git,terraform,maven,jenkins,Ansible, Docker,kubernetes)
-- 💞️ I’m looking to collaborate on ...
 - 📫 Linkedin : https://www.linkedin.com/in/saikumar-kothada-7b242b1a2/
 - mail : saikumarkothada@gmail.com
 -  
